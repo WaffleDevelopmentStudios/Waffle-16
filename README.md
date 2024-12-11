@@ -19,3 +19,36 @@ An Emulator for a fictional computer.
  - 0F - Return                          0F()
  - 10 - 
  - FF - Halt!
+### Registers
+ - 00 - General Purpose
+ - 01 - General Purpose
+ - 02 - General Purpose
+ - 03 - General Purpose
+ - 04 - General Purpose
+ - 05 - General Purpose
+ - 06 - General Purpose
+ - 07 - General Purpose
+ - 08 - General Purpose
+ - 09 - General Purpose
+ - 0A - General Purpose
+ - 0B - General Purpose
+ - 0C - General Purpose
+ - 0D - General Purpose
+ - 0E - General Purpose
+ - 0F - General Purpose
+ - 10 - Unused Right Now
+ - 11 - Unused Right Now
+ - 12 - Unused Right Now
+ - 13 - Unused Right Now
+ - 14 - Unused Right Now
+ - 15 - Unused Right Now
+ - 16 - Unused Right Now
+ - 17 - Unused Right Now
+ - 18 - Unused Right Now
+ - 19 - Unused Right Now
+ - 1A - Unused Right Now
+ - 1B - SSD Ready
+ - 1C - Bookkeeping Stack Pointer
+ - 1D - Stack Pointer
+ - 1E - Program Counter (Upper Bit)
+ - 1F - Program Counter (Lower Bit)
